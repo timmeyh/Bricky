@@ -26,6 +26,8 @@ Create in the ~/bot folder a .env file containing the following:
 DISCORD_TOKEN=<DISCORD TOKEN>
 
 apiKey=<BRICKSET API KEY>
+
 username=<BRICKSET USERNAME>
+  
 password=<BRICKSET PASSWORD>
 
