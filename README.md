@@ -14,3 +14,13 @@ pip install discord.py
 apt-get install google-chrome
 
 mkdir ~/bot (for the code to reside)
+
+## .env file
+Create in the ~/bot folder a .env file containing the following:
+
+DISCORD_TOKEN=<DISCORD TOKEN>
+
+apiKey=<BRICKSET API KEY>
+username=<BRICKSET USERNAME>
+password=<BRICKSET PASSWORD>
+
